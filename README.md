@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Friend... 👋🤖
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueYuleZ&hide=stars,prs,issues&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/HenriqueYuleZ/github-readme-stats)
 
