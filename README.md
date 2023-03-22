@@ -15,7 +15,7 @@ Linguagens & Tecnologias: `Html`, `CSS`, `PHP`, `JavaScript`, `MySQL`, `CakePHP`
 
 **Desenvolvedor Cooperado Full Stack** \
 [**AZ Tecnologia em Gestão**](https://www.azi.com.br/) • Full-time \
-Linguagens & Tecnologias: `Html`, `CSS`, `Typescript`,`SQL Server`, `Angular`, `C#`, `.Net Core` `Git`,\
+Linguagens & Tecnologias: `Html`, `CSS`, `Typescript`, `Angular`, `C#`, `.Net Core`,`SQL Server`, `Git`,\
 <br/>
 <!--
 **HenriqueYuleZ/HenriqueYuleZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
