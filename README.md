@@ -8,7 +8,7 @@
 
 **Desenvolvedor Estagiário** \
 [**G2i Soluções Inteligentes**](https://grupog2i.com.br/) • Meio período \
-Linguagens & Tecnologias: `Html`, `CSS`, `PHP`, `JavaScript`, `MySQL`, `CakePHP`, `Git`,\
+Linguagens & Tecnologias: `Html`, `CSS`, `PHP`, `JavaScript`, `MySQL`, `CakePHP`, `Git`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQFovSJo17j-KA/company-logo_200_200/0/1625663732908?e=2147483647&v=beta&t=oLNDK_H_JDUT8LPfNjDqDUi_eb8oUxTOfpkdBiVpsLc"/>](https://www.azi.com.br/)
