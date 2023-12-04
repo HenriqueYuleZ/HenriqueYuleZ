@@ -1,12 +1,30 @@
 ### Hello Friend... 👋🤖
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueYuleZ&hide=stars,prs,issues&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/HenriqueYuleZ/github-readme-stats) -->
-## Um pouco sobre mim: 
-- 🔭 Atualmente trabalhando na AZ - Tecnologia em Gestão como desenvolvedor Full Stack.
-- 🌱 Estou aprendendo sobre implementar boas práticas no dia a dia da programação.
-- 👯 Estou em busca de colaborar com boas equipes e projetos com novos desafios!
-- 🧐 Gosto muito de aprender algo com pessoas mais experientes no mercado.
-- ⚡ Fun fact: adoro o mundo do automobilismo.
+<div align="left">
+  <div align="right">
+    <h3>DevCard | <a href="app.daily.dev" target="_blank">daily.dev</a></h3>
+  </div>
+  <a href="https://app.daily.dev/henriqueyz"><img src="https://api.daily.dev/devcards/b56533387add46b6a68acc285dba2de3.png?r=mec" width="220" align="right" target="_blank" alt="Henrique Yule's Dev Card"/></a>
+</div>
+
+<!-- Div pai -->
+<h2>Um pouco sobre mim:</h2>
+<div style="display: flex; justify-content: center; align-items: center;">
+
+<!-- esquerda -->
+<div style="width: 50%; box-sizing: border-box; float: left;">
+    <!-- Conteúdo da esquerda -->
+    <ul>
+    <li>🔭 Atualmente trabalhando na AZ - Tecnologia em Gestão como desenvolvedor Full Stack.</li>
+    <li>🌱 Estou aprendendo sobre implementar boas práticas no dia a dia da programação.</li>
+    <li>👯 Estou em busca de colaborar com boas equipes e projetos com novos desafios!</li>
+    <li>🧐 Gosto muito de aprender algo com pessoas mais experientes no mercado.</li>
+    <li>⚡ Fun fact: adoro o mundo do automobilismo.</li>
+    </ul>
+</div>
+</div>
+
+<br/><br/>
 
 ### Experiência de trabalho
 
