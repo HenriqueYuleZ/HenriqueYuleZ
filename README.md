@@ -2,7 +2,7 @@
 
 <div align="left">
   <div align="right">
-    <h3>DevCard | <a href="app.daily.dev" target="_blank">daily.dev</a></h3>
+    <h3>DevCard | <a href="https://app.daily.dev" target="_blank">daily.dev</a></h3>
   </div>
   <a href="https://app.daily.dev/henriqueyz"><img src="https://api.daily.dev/devcards/b56533387add46b6a68acc285dba2de3.png?r=mec" width="220" align="right" target="_blank" alt="Henrique Yule's Dev Card"/></a>
 </div>
