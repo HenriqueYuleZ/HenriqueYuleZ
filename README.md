@@ -47,6 +47,6 @@ Linguagens & Tecnologias: `Html` `CSS` `Typescript` `Angular` `C#` `.Net Core` `
 <br/>
 
 [<img align="left" width="154px" alt="Warpnet" src="https://nes.facom.ufms.br/storage/uploads/Uvcuben1QzWCVyQjOlo2LWb4uVkSpE6rT4Gl6xX7.png"/>]([https://www.azi.com.br/](https://nes.facom.ufms.br/projeto/gerenciador-de-biblioteca))
-**Desenvolvedor Fullstack** \
+**Desenvolvedor Full stack** \
 [**LibriX - Gerenciador de biblioteca**](https://nes.facom.ufms.br/projeto/gerenciador-de-biblioteca) • Núcleo de Práticas de Engenharia de Software | Meio Período \
 Linguagens & Tecnologias: `Node` `Express` `Prisma` `Vue` `Vite` `SQLite` `Git`\
