@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-### Experiência de trabalho
+### Experiências
 
 [<img align="left" height="74px" width="154px" alt="Warpnet" src="https://grupog2i.com.br/wp-content/uploads/2021/08/cropped-Logog2i-cropped.png"/>](https://grupog2i.com.br/)
 **Desenvolvedor Estagiário** \
@@ -45,3 +45,8 @@ Linguagens & Tecnologias: `PHP` `Laravel` `Docker` `PostgreSQL` `Testes unitári
 [**AZ Tecnologia em Gestão**](https://www.azi.com.br/) • Full-time \
 Linguagens & Tecnologias: `Html` `CSS` `Typescript` `Angular` `C#` `.Net Core` `SQL Server` `Java` `Git`\
 <br/>
+
+[<img align="left" width="154px" alt="Warpnet" src="https://nes.facom.ufms.br/storage/uploads/Uvcuben1QzWCVyQjOlo2LWb4uVkSpE6rT4Gl6xX7.png"/>]([https://www.azi.com.br/](https://nes.facom.ufms.br/projeto/gerenciador-de-biblioteca))
+**Desenvolvedor Fullstack** \
+[**LibriX - Gerenciador de biblioteca**](https://nes.facom.ufms.br/projeto/gerenciador-de-biblioteca) • Meio Período \
+Linguagens & Tecnologias: `Node` `Express` `Prisma` `Vue` `Vite` `SQLite` `Git`\
