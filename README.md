@@ -28,7 +28,7 @@
 
 ### Experiências
 
-[<img align="left" height="74px" width="154px" alt="Warpnet" src="https://grupog2i.com.br/wp-content/uploads/2021/08/cropped-Logog2i-cropped.png"/>](https://grupog2i.com.br/)
+[<img align="left" height="74px" width="154px" alt="Warpnet" src="https://i2aiportal.blob.core.windows.net/static/company/2021/8/9/414251g2i500x220.png.500x300_q85_crop.png"/>](https://grupog2i.com.br/)
 **Desenvolvedor Estagiário** \
 [**G2i Soluções Inteligentes**](https://grupog2i.com.br/) • Meio período \
 Linguagens & Tecnologias: `Html` `CSS` `PHP` `JavaScript` `MySQL` `CakePHP` `Git`\
