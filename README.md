@@ -40,13 +40,13 @@ Linguagens & Tecnologias: `Html` `CSS` `PHP` `JavaScript` `MySQL` `CakePHP` `Git
 Linguagens & Tecnologias: `PHP` `Laravel` `Docker` `PostgreSQL` `Testes unitários` `Git`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQFovSJo17j-KA/company-logo_200_200/0/1625663732908?e=2147483647&v=beta&t=oLNDK_H_JDUT8LPfNjDqDUi_eb8oUxTOfpkdBiVpsLc"/>](https://www.azi.com.br/)
-**Desenvolvedor Cooperado Full Stack** \
-[**AZ Tecnologia em Gestão**](https://www.azi.com.br/) • Full-time \
-Linguagens & Tecnologias: `Html` `CSS` `Typescript` `Angular` `C#` `.Net Core` `SQL Server` `Java` `Git`\
-<br/>
-
 [<img align="left" width="154px" alt="Warpnet" src="https://nes.facom.ufms.br/storage/uploads/Uvcuben1QzWCVyQjOlo2LWb4uVkSpE6rT4Gl6xX7.png"/>]([https://www.azi.com.br/](https://nes.facom.ufms.br/projeto/gerenciador-de-biblioteca))
 **Desenvolvedor Full stack** \
 [**LibriX - Gerenciador de biblioteca**](https://nes.facom.ufms.br/projeto/gerenciador-de-biblioteca) • Núcleo de Práticas de Engenharia de Software | Meio Período \
 Linguagens & Tecnologias: `Node` `Express` `Prisma` `Vue` `Vite` `SQLite` `Git`
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQFovSJo17j-KA/company-logo_200_200/0/1625663732908?e=2147483647&v=beta&t=oLNDK_H_JDUT8LPfNjDqDUi_eb8oUxTOfpkdBiVpsLc"/>](https://www.azi.com.br/)
+**Desenvolvedor Full Stack** \
+[**AZ Tecnologia em Gestão**](https://www.azi.com.br/) • Full-time \
+Linguagens & Tecnologias: `Html` `CSS` `Typescript` `Angular` `C#` `.Net Core` `SQL Server` `Java` `Git`\
+<br/>
