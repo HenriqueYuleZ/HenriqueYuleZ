@@ -21,7 +21,7 @@ I love creating scalable, efficient applications and exploring new technologies 
 
 ## 💼 Experience
 
-### **Full Stack Developer** – [AZ Tecnologia em Gestão](https://aztg.com.br/)
+### **Full Stack Developer** – [AZ Tecnologia em Gestão](https://www.azi.com.br/)
 **Tech Stack:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,7 +35,7 @@ I love creating scalable, efficient applications and exploring new technologies 
 
 ---
 
-### **Full Stack Developer** – LibriX (Software Engineering Practice Nucleus)
+### **Full Stack Developer** – [LibriX (Software Engineering Practice Nucleus)](https://nes.facom.ufms.br/projeto/gerenciador-de-biblioteca)
 **Tech Stack:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -47,7 +47,7 @@ I love creating scalable, efficient applications and exploring new technologies 
 
 ---
 
-### **Backend Developer** – Sieven (Software Engineering Practice Nucleus)
+### **Backend Developer** – Sieven [(Software Engineering Practice Nucleus)](https://nes.facom.ufms.br/projeto/sieven-sistema-de-gestao-de-eventos)
 **Tech Stack:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -58,7 +58,7 @@ I love creating scalable, efficient applications and exploring new technologies 
 
 ---
 
-### **Intern Developer** – G2i Soluções Inteligentes  
+### **Intern Developer** – [G2i Soluções Inteligentes](https://grupog2i.com.br/)
 **Tech Stack:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
