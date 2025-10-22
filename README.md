@@ -1,6 +1,5 @@
-<!-- Banner ou título decorado -->
 <h1 align="center">👋 Hey there, I'm <strong>Henrique Yule</strong> — Software Engineer</h1>
-<h3 align="center">💻 Full Stack Developer | Game Dev Enthusiast | Software Engeneer</h3>
+<h3 align="center">💻 Full Stack Developer | Game Dev Enthusiast | Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00ADEF&center=true&vCenter=true&lines=Building+ideas+into+reality.;Exploring+web+%26+game+development.;Always+learning+and+innovating." />
